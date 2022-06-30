@@ -9,7 +9,7 @@
    - Experienced at data manipulation, analysis and inferential statistics, 
    - Beginner at machine learning,
    - Good at data visualization and storytelling;
- - 🐝 Currently working on ML capstone project for Data Science course at Turing College;
+ - 🐝 Currently working on Machine Learning capstone project for Data Science course at Turing College;
  - 💛 Would love to contribute to Open Source one day.
  
  </p>
