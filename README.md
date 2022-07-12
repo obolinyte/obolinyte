@@ -5,7 +5,7 @@
 <h3 align="left">Bio:</h3>
 <p align="left">
  
- - 💫 I am an aspiring Data Scientist transitioning from a Business Analyst role:
+ - 💫 I am an aspiring Data Professional transitioning from a Business Analyst role:
    - Experienced at data manipulation, analysis and inferential statistics, 
    - Beginner at machine learning,
    - Good at data visualization and storytelling;
