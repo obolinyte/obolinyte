@@ -3,12 +3,11 @@
 <h3 align="left">Bio:</h3>
 <p align="left">
  
- - 💫 I am an aspiring Data Professional transitioning from a Business Analyst role:
+ - 💫 I am a driven Data Professional:
    - Experienced at data manipulation, analysis and inferential statistics, 
    - Beginner at machine learning,
    - Good at data visualization and storytelling;
- - 🐝 Currently working on Machine Learning capstone project for Data Science course at Turing College;
- - 💛 Would love to contribute to Open Source one day.
+ - 🐝 Currently working as a Junior Data Scientist;
  
  </p>
 <h3 align="left">Latest:</h3>
