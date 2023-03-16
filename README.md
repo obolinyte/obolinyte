@@ -1,6 +1,4 @@
 
-<img align="center" src="cover.png" alt="Turing College Background"/>
-
 <h3 align="left">Hi there 👋 I'm Dovile 👩</h3>
 <h3 align="left">Bio:</h3>
 <p align="left">
